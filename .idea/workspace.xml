@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4aae8733-8481-4632-96c1-d6e08b87d9d4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools-swagger/pom.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +62,9 @@
       <workItem from="1683607890710" duration="657000" />
       <workItem from="1683621956620" duration="1086000" />
       <workItem from="1683776740141" duration="667000" />
+      <workItem from="1683789355535" duration="27000" />
+      <workItem from="1683796632151" duration="124000" />
+      <workItem from="1688553882818" duration="1162000" />
     </task>
     <servers />
   </component>
