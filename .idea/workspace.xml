@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4aae8733-8481-4632-96c1-d6e08b87d9d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tool-generator/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tool-generator/src/main/java/cn/nilsad/FastAutoGeneratorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4aae8733-8481-4632-96c1-d6e08b87d9d4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +53,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "File.Encoding",
+    "spring.configuration.checksum": "009285420c1ffd89e2f08d0d281131d6",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -112,7 +109,8 @@
       <workItem from="1683789355535" duration="27000" />
       <workItem from="1683796632151" duration="124000" />
       <workItem from="1688553882818" duration="1371000" />
-      <workItem from="1688555853276" duration="1664000" />
+      <workItem from="1688555853276" duration="2032000" />
+      <workItem from="1688604550884" duration="496000" />
     </task>
     <servers />
   </component>
