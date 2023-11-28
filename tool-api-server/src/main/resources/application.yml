@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: spring-tools
+server:
+  port: 10000
+
+# swagger配置
+springdoc:
+  #  packages-to-scan: com.moshi.controller
+  swagger-ui:
+    enabled: true
+  api-docs:
+    enabled: true
+knife4j:
+  enable: true
+  openapi:
+    title: Knife4j官方文档
+    description: Spring Tools
